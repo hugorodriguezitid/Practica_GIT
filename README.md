@@ -7,3 +7,9 @@ Rodriguez Hugo
 
 ## Descripcion
 Sistema de registro de alumnos
+
+## Funcinalidades
+-Registro de estudiantes
+-Consulta de estudiantes
+-Control de versiones con Git
+
